@@ -1,3 +1,3 @@
-# plusspeed
+# martiangravity
 
 This is where she makes a mod.
